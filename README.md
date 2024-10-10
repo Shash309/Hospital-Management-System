@@ -16,7 +16,7 @@ Database integration: Utilizes MySQL for database storage and retrieval using JD
 Setup and Installation:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/hospital-management-system.git
+git clone (https://github.com/vansh070605/APP-PROJECT/)
 
 2. Database setup:
 
